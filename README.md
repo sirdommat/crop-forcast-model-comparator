@@ -1,14 +1,16 @@
-## Available Scripts
+## Setting up Local
 
-In the project directory, you can run:
+1. First run `npm install`, this will install all node modules needed to compile the application
 
-### `npm start`
+2. Then `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Other Available Scripts
 
 ### `npm test`
 
