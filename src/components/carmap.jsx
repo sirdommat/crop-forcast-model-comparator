@@ -3,12 +3,6 @@ import mapData from './../data/mygeodata_merged.json'
 import 'leaflet/dist/leaflet.css'
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 class CarMap extends Component {
-    state = {};
-
-componentDidMount(){
-    console.log(mapData)
-}
-
     render() {
         return (
             <div>
