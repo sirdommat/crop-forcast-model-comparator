@@ -14,7 +14,6 @@ class CarMap extends Component {
                     /> }    
                     <GeoJSON data={mapData.features}/>
                 </MapContainer>
-
             </div>
         )
     }
